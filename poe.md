@@ -3,6 +3,8 @@ layout: default
 title: Path of Exile
 ---
 # キーワード
+## ジョブ
+職業に当たる。  
 # ジョブ
 # アイテム
 # スキル
