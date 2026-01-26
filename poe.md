@@ -10,8 +10,7 @@ Call of Cthulhu is a registered trademark of Chaosium Inc.
 PUBLISHED BY KADOKAWA CORPORATION　「クトゥルフ神話TRPG」「新クトゥルフ神話TRPG」
 # 仕様説明
 ## アイテムとマップについて
-こちらのリンクで確認、所持数記録をしてください。
-https://script.google.com/macros/s/AKfycbzFgTT_SnB8LdJQJJDxJ4GRWCkHjm5xy0jHqbSSRfYxx8Reo62xFeRK9LK_L9eYmoC0cg/exec
+[こちら](https://script.google.com/macros/s/AKfycbzFgTT_SnB8LdJQJJDxJ4GRWCkHjm5xy0jHqbSSRfYxx8Reo62xFeRK9LK_L9eYmoC0cg/exec)のリンクで確認、所持数記録をしてください。
 ## 職業
   職業ごとにレベルが上った時の恩恵が違う。1度決めたら変更できない。技能の最大値は80である。    
 ## レベル
