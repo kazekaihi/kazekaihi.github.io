@@ -8,8 +8,6 @@ title: Path of Exile
 Call of Cthulhu is copyright ©1981, 2015, 2019 by Chaosium Inc. ;all rights reserved. Arranged by Arclight Inc.
 Call of Cthulhu is a registered trademark of Chaosium Inc.
 PUBLISHED BY KADOKAWA CORPORATION　「クトゥルフ神話TRPG」「新クトゥルフ神話TRPG」
-# 鯖としてのルール
-俺がルールだ。気に食わなかったらBANする。気に入ったらモデレーターに入れる。やらかしたら外す。俺が関係してない問題は両方聞いて罰する。引き抜きは俺も引き抜いてくれ。以上！
 # 仕様説明
 ## アイテムとマップについて
 こちらのリンクで確認、所持数記録をしてください。
